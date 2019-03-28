@@ -1,2 +1,2 @@
 # hiya--monde
-Storing a Telegram bot.
+A Telegram bot with /weather, /shout, /roll, /wiki, and /pgp functionalities.
